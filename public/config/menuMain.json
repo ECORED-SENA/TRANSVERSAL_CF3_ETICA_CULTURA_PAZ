@@ -7,14 +7,14 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "Objetivos_de_Desarrollo_Sostenible",
     "title": "1. Objetivos de Desarrollo Sostenible",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Objetivos_de_Desarrollo_Sostenible",
         "title": "1.1 Descripción ODS, metas propuestas",
         "anchor": "11"
@@ -29,7 +29,7 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "Triple_Bottom_Line",
     "title": "2. Triple Bottom Line",
     "breadcrumb": ["Inicio","Introducción"],
